@@ -1,2 +1,14 @@
-# thyroid-prediction-project
-Machine learning project to predict thyroid disease using patient data with high accuracy.
+# Thyroid Disease Prediction
+
+This project uses machine learning to predict thyroid disease based on patient data.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Features
+- Data preprocessing
+- Model training
+- Prediction system
